@@ -45,7 +45,7 @@
                     </jvmArgs>
 
                     <jvmProperties>
-                        <Argument2>UserProperty=foo</Argument2>
+                        <UserProperty>foo</UserProperty>
                     </jvmProperties>                    
                     <userJvmArgs>
                         <Argument3>AppCommand</Argument3>
